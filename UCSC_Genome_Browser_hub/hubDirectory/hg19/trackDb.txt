@@ -1,0 +1,9 @@
+track Interactions_involving_Green_&_Amber_Gene
+bigDataUrl green_amber_genes_hmsLRI.bb
+shortLabel GA-hmsLRI
+longLabel hmsLRI involving Green and Amber genes
+type bigInteract
+interactDirectional true
+visibility full
+description hmsLRI involving Green and Amber genes
+
