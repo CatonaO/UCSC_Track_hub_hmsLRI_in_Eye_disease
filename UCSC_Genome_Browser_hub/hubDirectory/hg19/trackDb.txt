@@ -12,5 +12,5 @@ bigDataUrl nodes_eye.bb
 shortLabel nodes
 longLabel Enhancer nodes derived from hmsLRI involving Green and Amber genes
 type bigBed
-visibility full
+visibility dense
 description Enhancer nodes derived from hmsLRI involving Green and Amber genes
