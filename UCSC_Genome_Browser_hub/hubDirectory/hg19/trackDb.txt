@@ -14,3 +14,20 @@ longLabel Enhancer nodes derived from hmsLRI involving Green and Amber genes
 type bigBed
 visibility dense
 description Enhancer nodes derived from hmsLRI involving Green and Amber genes
+
+track Interactions_involving_Fitzpatrick_&_eye_development_Genes
+bigDataUrl FD_hmsLRI.bb
+shortLabel FD-hmsLRI
+longLabel hmsLRI involving Fitzpatrick and eye development genes
+type bigInteract
+interactDirectional true
+visibility full
+description hmsLRI involving Fitzpatrick and eye development genes
+
+track Enhancer_NodesFD
+bigDataUrl nodes_eyeFD.bb
+shortLabel nodes
+longLabel Enhancer nodes derived from hmsLRI involving Fitzpatrick and eye development genes
+type bigBed
+visibility dense
+description Enhancer nodes derived from hmsLRI involving Fitzpatrick and eye development genes
