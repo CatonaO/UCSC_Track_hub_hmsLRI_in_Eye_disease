@@ -7,3 +7,10 @@ interactDirectional true
 visibility full
 description hmsLRI involving Green and Amber genes
 
+track Enhancer_Nodes
+bigDataUrl nodes_eye.bb
+shortLabel nodes
+longLabel Enhancer nodes derived from hmsLRI involving Green and Amber genes
+type bigBed
+visibility full
+description Enhancer nodes derived from hmsLRI involving Green and Amber genes
